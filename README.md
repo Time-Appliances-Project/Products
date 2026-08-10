@@ -26,7 +26,7 @@ Order:
 Here is the link to TimeNIC's github repo: [link](https://github.com/Time-Appliances-Project/TimeNIC)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/products/timenic-i226-pcie-nic-with-pps-in-out-and-tcxo?variant=45240565792959)
+[Shopify](https://timeappliances.myshopify.com/products/timenic?variant=43792166682698)
 
 ---
 
@@ -36,7 +36,7 @@ Order:
 Here is the link to TimeStick's github repo: [link](https://github.com/Time-Appliances-Project/TimeStick)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/products/time-stick-v2?variant=45239545594047)
+[Shopify](https://timeappliances.myshopify.com/products/timestick-v2?variant=43814719782986)
 
 ---
 
