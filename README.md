@@ -7,7 +7,6 @@ Here is the link to Switchberry's github repo: [link](https://github.com/Time-Ap
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/collections/switchberry-bundles)
-[Tindie](https://www.tindie.com/products/timeappliances/switchberry/)
 
 ---
 
@@ -18,7 +17,6 @@ Here is the link to TimeHat's github repo: [link](https://github.com/Time-Applia
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/collections/timehatv6-bundles)
-[Tindie](https://www.tindie.com/products/timeappliances/timehat-i226-nic-with-pps-inout-for-rpi5/)
 
 ---
 
@@ -29,7 +27,6 @@ Here is the link to TimeNIC's github repo: [link](https://github.com/Time-Applia
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/products/timenic-i226-pcie-nic-with-pps-in-out-and-tcxo?variant=45240565792959)
-[Tindie](https://www.tindie.com/products/timeappliances/timenic-i226-pcie-nic-with-pps-inout-and-tcxo/)
 
 ---
 
@@ -40,7 +37,6 @@ Here is the link to TimeStick's github repo: [link](https://github.com/Time-Appl
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/products/time-stick-v2?variant=45239545594047)
-[Tindie](https://www.tindie.com/products/timeappliances/time-stick-v2)
 
 ---
 
@@ -66,7 +62,6 @@ Link to github repo: [link](https://github.com/Time-Appliances-Project/Time-Card
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/products/ocp-m-2-neo-m9n-gnss?variant=45239204937919)
-[Tindie](https://www.tindie.com/products/timeappliances/ocp-m2-neo-m9n-gnss/)
 
 ## OCP M.2 ZED-F9T GNSS
 
@@ -76,7 +71,6 @@ Link to github repo: [link](https://github.com/Time-Appliances-Project/Time-Card
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/products/ocp-m-2-zed-f9t-gnss?variant=45239247044799)
-[Tindie](https://www.tindie.com/products/timeappliances/ocp-m2-zed-f9t-gnss/)
 
 
 ## OCP M.2 ZED-F9P GNSS
@@ -87,7 +81,6 @@ PCB identical to M.2 ZED-F9T github repo: [link](https://github.com/Time-Applian
 
 Order: 
 [Shopify](https://pmqipr-s3.myshopify.com/products/ocp-m-2-zed-f9p-gnss?variant=45239684399295)
-[Tindie](https://www.tindie.com/products/timeappliances/ocp-m2-zed-f9p-gnss/)
 
 ---
 
