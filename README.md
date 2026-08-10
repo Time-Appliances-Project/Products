@@ -6,7 +6,7 @@
 Here is the link to Switchberry's github repo: [link](https://github.com/Time-Appliances-Project/Switchberry)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/collections/switchberry-bundles)
+[Shopify](https://timeappliances.myshopify.com/products/switchberry-v6?variant=43792156131402)
 
 ---
 
