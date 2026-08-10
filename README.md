@@ -16,7 +16,7 @@ Order:
 Here is the link to TimeHat's github repo: [link](https://github.com/Time-Appliances-Project/TimeHAT)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/collections/timehatv6-bundles)
+[Shopify](https://timeappliances.myshopify.com/products/raspberry-pi-5-pcie-hat-with-i226-nic-timehat?variant=43792143024202)
 
 ---
 
@@ -61,7 +61,7 @@ The **OCP-Compliant M.2 GNSS Module** board is a compact GPS module based on the
 Link to github repo: [link](https://github.com/Time-Appliances-Project/Time-Card/tree/master/GNSS/UBlox/M2-NEO-M9N)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/products/ocp-m-2-neo-m9n-gnss?variant=45239204937919)
+[Shopify](https://timeappliances.myshopify.com/products/ocp-m2-neo-m9n-gnss?variant=43792162553930)
 
 ## OCP M.2 ZED-F9T GNSS
 
@@ -70,7 +70,7 @@ Order:
 Link to github repo: [link](https://github.com/Time-Appliances-Project/Time-Card/tree/master/GNSS/UBlox/M2-ZED-F9T)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/products/ocp-m-2-zed-f9t-gnss?variant=45239247044799)
+[Shopify](https://timeappliances.myshopify.com/products/ocp-m2-zed-f9t-gnss?variant=43792163733578)
 
 
 ## OCP M.2 ZED-F9P GNSS
@@ -80,7 +80,7 @@ Order:
 PCB identical to M.2 ZED-F9T github repo: [link](https://github.com/Time-Appliances-Project/Time-Card/tree/master/GNSS/UBlox/M2-ZED-F9T)
 
 Order: 
-[Shopify](https://pmqipr-s3.myshopify.com/products/ocp-m-2-zed-f9p-gnss?variant=45239684399295)
+[Shopify](https://timeappliances.myshopify.com/products/ocp-m2-zed-f9p-gnss?variant=43792164257866)
 
 ---
 
